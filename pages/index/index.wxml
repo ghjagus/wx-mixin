@@ -1,0 +1,8 @@
+<view>person: {{person}}</view>
+
+<view>{{number}}</view>
+<button bindtap="increase">加1</button>
+<button bindtap="decrease">减1</button>
+
+<button bindtap="openList">open list</button>
+<button bindtap="openDetail">open detail</button>

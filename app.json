@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/list",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "navigationBarTitleText": "xcx-mixin",
+    "navigationBarBackgroundColor": "#3c394b",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#f2f2f2",
+    "backgroundTextStyle": "dark"
+  }
+}

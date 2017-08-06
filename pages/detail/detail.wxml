@@ -1,0 +1,2 @@
+<button bindtap="invokeIndexPageIncrease">index+</button>
+<button bindtap="invokeIndexPageDecrease">index-</button>

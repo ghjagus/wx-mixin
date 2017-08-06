@@ -1,0 +1,1 @@
+<button bindtap="openDetail">go detail</button>
